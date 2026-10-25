@@ -1,0 +1,6 @@
+{
+  "name": "NatureNest - ন্যাচারনেস্ট অর্গানিক ও প্রাকৃতিক পণ্য",
+  "description": "বাংলাদেশের নির্ভরযোগ্য প্রিমিয়াম অর্গানিক ও প্রাকৃতিক ভেষজ পণ্যের অনলাইন শপ। খাঁটি মধু, তেল, স্কিনকেয়ার ও সুস্থতার সমাধান।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
